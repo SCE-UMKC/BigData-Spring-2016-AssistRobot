@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\DEEPU\\AndroidStudioProjects\\AlchemyAPI_Android_TestApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\DEEPU\\AndroidStudioProjects\\AlchemyAPI_Android_TestApp\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DEEPU\\AndroidStudioProjects\\AlchemyAPI_Android_TestApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kitten.jpg",
+        "source": "C:\\Users\\DEEPU\\AndroidStudioProjects\\AlchemyAPI_Android_TestApp\\app\\src\\main\\res\\drawable-hdpi\\kitten.jpg"
+    }
+]
